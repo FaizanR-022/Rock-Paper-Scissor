@@ -18,6 +18,8 @@ rock.classList.add("hide");
 paper.classList.add("hide");
 scissor.classList.add("hide");
 
+// Just for testing purpose for github
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
